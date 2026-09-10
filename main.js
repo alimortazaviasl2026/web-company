@@ -7,6 +7,3 @@ const loadWindow = () => {
 
 window.addEventListener('load',loadWindow)
 
-const handleLoader  = () => {
-  return loader
-}
